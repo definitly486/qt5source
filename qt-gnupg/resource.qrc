@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>gpg.png</file>
+    </qresource>
+</RCC>
